@@ -1,0 +1,1 @@
+SELECT tpid FROM TaggedPhoto WHERE author = 'ad' and data < 2011

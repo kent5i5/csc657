@@ -1,0 +1,1 @@
+SELECT tpid FROM TaggedPhoto WHERE From_user = 'ab'
